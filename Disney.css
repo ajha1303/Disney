@@ -1,0 +1,258 @@
+body{
+    background-color: white;
+}
+
+#subline{
+    width: 500px;
+    margin: 0;
+    font-size: medium;
+    font-weight: bold;
+    padding-bottom: 50px;
+    padding-left: 35px;
+}
+
+#disney_logo{
+    width: 240px;
+    height: 80px;
+    padding-left: 30px;
+    position: sticky;
+    top: 30px;
+}
+
+.register{
+    padding-left: 1100px; 
+}
+
+#input1{
+    background-color: black;
+    color: whitesmoke;
+    width: 100px;
+    height: 30px;
+    border: none;
+}
+
+#input1:hover{
+    font-style: italic;
+    cursor: pointer;
+}
+
+.buttons{
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+#button1 {
+    background-color: red;
+    color: white;
+    width: 200px;
+    height: 50px;
+    font-size: large;
+    font-weight: bold;
+    letter-spacing: 7px;
+    border: none;
+    margin-right: 50px;
+    margin-left: 90px;
+}
+
+#button2 {
+    background-color: #fca311;
+    color: white;
+    width: 200px;
+    height: 50px;
+    font-size: large;
+    font-weight: bold;
+    letter-spacing: 7px;
+    border: none;
+    margin-right: 50px;
+    margin-left: 120px;
+}
+
+#button3 {
+    background-color: red;
+    color: white;
+    width: 200px;
+    height: 50px;
+    font-size: large;
+    font-weight: bold;
+    letter-spacing: 7px;
+    border: none;
+    margin-right: 10px;
+    margin-left: 150px;
+}
+
+#button1:hover{
+    font-size: x-large;
+    font-weight: bolder;
+    box-shadow: 0 0.7em 0.5em -0.4em;
+    color: #fca311;
+    cursor: pointer;
+}
+#button2:hover{
+    font-size: x-large;
+    font-weight: bolder;
+    box-shadow: 0 0.7em 0.5em -0.4em;
+    color: red;
+    cursor: pointer;
+}
+#button3:hover{
+    font-size: x-large;
+    font-weight: bolder;
+    box-shadow: 0 0.7em 0.5em -0.4em;
+    color: #fca311;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.wallpaper {
+    padding-left: 60px;
+    display: block;
+}
+
+.wallpaper div{
+    display: inline-block;
+}
+
+#gang1{
+    width: 400px;
+    height: 280px;
+    padding-right: 10px;
+}
+
+#gang2{
+    width: 400px;
+    height: 280px;
+    padding-right: 10px;
+}
+
+#gang3{
+    width: 400px;
+    height: 280px;
+    padding-right: 10px;
+}
+
+.Mission {
+    padding: 0 350px;
+    text-align: center;
+    width: 600px;
+    font-weight: bold;
+    font-family: 'Times New Roman';
+    font-size: medium;
+    color: rgb(245, 91, 20);
+    word-spacing: 2px;
+    line-height: 2rem;
+}
+
+#mission{
+    font-size: xx-large;
+    font-weight: bolder;
+    color: black;
+    letter-spacing: 2px;
+    text-decoration: underline;
+}
+
+h2{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 50px;
+}
+
+.links{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.links:hover{
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+#Hong-Kong{
+    padding-left: 250px;
+    margin-left: 70px;
+    width: 500px;
+    height: 300px;
+    background-image: url("file:///E:/E/Mickey%20Mouse/hong_kong_disneyland.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left;
+    text-align: center;
+    line-height: 30px;
+}
+
+#Paris{
+    margin-left: 250px;
+    padding-right: 470px;
+    width: 550px;
+    height: 300px;
+    background-image: url("file:///E:/E/Mickey%20Mouse/disneyland-paris.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+    text-align: center;
+    line-height: 30px;
+}
+
+#World{
+    padding-left: 550px;
+    margin-left: 70px;
+    width: 500px;
+    height: 300px;
+    background-image: url("file:///E:/E/Mickey%20Mouse/Walt-Disney-World.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left;
+    text-align: center;
+    line-height: 30px;
+}
+
+.disneyland_plans p{
+    color: rgb(61, 61, 61);
+}
+
+.disneyland_plans a{
+    color: black;
+}
+
+h3{
+    text-align: left;
+    text-decoration: underline;
+    font-size: 30px;
+    padding-left: 50px;
+}
+
+#history_mickey{
+    background-color: rgb(214, 214, 214);
+    margin-left: 50px;
+    width: 89%;
+    border: 2px solid black;
+}
+
+#history_mickey div{
+    margin-left: 60px;
+    width: 500px;
+    height: 300px;
+    display: inline-block;
+}
+
+#history_mickey img{
+    width: 500px;
+    height: 300px;
+    position: relative;
+    top: 35px;
+    right: 5px;
+}
+
+#history_mickey a{
+    color: blue;
+}
+
+#history_mickey a:hover{
+    color: blue;
+    text-decoration: underline;  
+    box-shadow: 0 0.4em 0.5em -0.4em;     
+}
+
