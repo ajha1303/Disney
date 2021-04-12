@@ -1,10 +1,10 @@
 body{
-    background-color: white;
+    background-color: black;
+    color: white;
 }
 
 #subline{
-    width: 500px;
-    margin: 0;
+    margin: 0 auto;
     font-size: medium;
     font-weight: bold;
     padding-bottom: 50px;
@@ -12,20 +12,19 @@ body{
 }
 
 #disney_logo{
-    width: 240px;
+    width: 20%;
     height: 80px;
     padding-left: 30px;
-    position: sticky;
     top: 30px;
 }
 
 .register{
-    padding-left: 1100px; 
+    padding-left: 83%; 
 }
 
 #input1{
-    background-color: black;
-    color: whitesmoke;
+    background-color: rgb(218, 214, 214);
+    color: black;
     width: 100px;
     height: 30px;
     border: none;
@@ -107,49 +106,29 @@ a {
     color: inherit;
 }
 
-.wallpaper {
-    padding-left: 60px;
-    display: block;
-}
-
-.wallpaper div{
-    display: inline-block;
-}
-
-#gang1{
-    width: 400px;
+.wallpaper img{
+    width: 30%;
     height: 280px;
-    padding-right: 10px;
-}
-
-#gang2{
-    width: 400px;
-    height: 280px;
-    padding-right: 10px;
-}
-
-#gang3{
-    width: 400px;
-    height: 280px;
-    padding-right: 10px;
+    margin: calc(10%/6);
 }
 
 .Mission {
-    padding: 0 350px;
+    padding: 0 330px;
     text-align: center;
-    width: 600px;
+    width: 50%;
     font-weight: bold;
     font-family: 'Times New Roman';
     font-size: medium;
     color: rgb(245, 91, 20);
     word-spacing: 2px;
     line-height: 2rem;
+    border-bottom: 2px solid blanchedalmond;
 }
 
 #mission{
     font-size: xx-large;
     font-weight: bolder;
-    color: black;
+    color: rgb(202, 0, 0);
     letter-spacing: 2px;
     text-decoration: underline;
 }
@@ -181,6 +160,7 @@ h2{
     background-position: left;
     text-align: center;
     line-height: 30px;
+    color: white;
 }
 
 #Paris{
@@ -194,6 +174,7 @@ h2{
     background-position: right;
     text-align: center;
     line-height: 30px;
+    color: white;
 }
 
 #World{
@@ -207,14 +188,7 @@ h2{
     background-position: left;
     text-align: center;
     line-height: 30px;
-}
-
-.disneyland_plans p{
-    color: rgb(61, 61, 61);
-}
-
-.disneyland_plans a{
-    color: black;
+    color: white;
 }
 
 h3{
@@ -224,8 +198,13 @@ h3{
     padding-left: 50px;
 }
 
+.disneyland_plans{
+    border-bottom: 2px solid blanchedalmond;
+}
+
 #history_mickey{
-    background-color: rgb(214, 214, 214);
+    color: black;
+    background-color: rgb(235, 220, 220);
     margin-left: 50px;
     width: 89%;
     border: 2px solid black;
