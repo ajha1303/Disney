@@ -1,19 +1,18 @@
 body{
-    background-color: black;
-    color: white;
+    background-color: #caf0f8;
 }
 
 #subline{
     margin: 0 auto;
     font-size: medium;
     font-weight: bold;
-    padding-bottom: 50px;
+    padding-bottom: 10px;
     padding-left: 35px;
 }
 
 #disney_logo{
     width: 20%;
-    height: 80px;
+    height: 100px;
     padding-left: 30px;
     top: 30px;
 }
@@ -23,11 +22,12 @@ body{
 }
 
 #input1{
-    background-color: rgb(218, 214, 214);
+    background-color: #0077b6;
     color: black;
     width: 100px;
     height: 30px;
     border: none;
+    border-radius: 10px;
 }
 
 #input1:hover{
@@ -54,7 +54,7 @@ body{
 }
 
 #button2 {
-    background-color: #fca311;
+    background-color: #fc9b00;
     color: white;
     width: 200px;
     height: 50px;
@@ -83,7 +83,7 @@ body{
     font-size: x-large;
     font-weight: bolder;
     box-shadow: 0 0.7em 0.5em -0.4em;
-    color: #fca311;
+    color: #e09200;
     cursor: pointer;
 }
 #button2:hover{
@@ -97,7 +97,7 @@ body{
     font-size: x-large;
     font-weight: bolder;
     box-shadow: 0 0.7em 0.5em -0.4em;
-    color: #fca311;
+    color: #e09200;
     cursor: pointer;
 }
 
@@ -122,13 +122,13 @@ a {
     color: rgb(245, 91, 20);
     word-spacing: 2px;
     line-height: 2rem;
-    border-bottom: 2px solid blanchedalmond;
+    border-bottom: 2px solid black;
 }
 
 #mission{
     font-size: xx-large;
     font-weight: bolder;
-    color: rgb(202, 0, 0);
+    color: #fa010a;
     letter-spacing: 2px;
     text-decoration: underline;
 }
@@ -160,7 +160,7 @@ h2{
     background-position: left;
     text-align: center;
     line-height: 30px;
-    color: white;
+    color: #14213d;
 }
 
 #Paris{
@@ -174,7 +174,7 @@ h2{
     background-position: right;
     text-align: center;
     line-height: 30px;
-    color: white;
+    color: #14213d;
 }
 
 #World{
@@ -188,7 +188,7 @@ h2{
     background-position: left;
     text-align: center;
     line-height: 30px;
-    color: white;
+    color: #14213d;
 }
 
 h3{
@@ -199,15 +199,14 @@ h3{
 }
 
 .disneyland_plans{
-    border-bottom: 2px solid blanchedalmond;
+    border-bottom: 2px solid black;
 }
 
 #history_mickey{
     color: black;
-    background-color: rgb(235, 220, 220);
+    background-color: #acf2ff;
     margin-left: 50px;
     width: 89%;
-    border: 2px solid black;
 }
 
 #history_mickey div{
